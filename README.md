@@ -33,4 +33,4 @@ curl --location --request POST 'http://localhost:8080/api/users' \
     ]
 }'
 
-# Swagger disponible en http://localhost:8080/swagger-ui/index.html
+Swagger disponible en http://localhost:8080/swagger-ui/index.html
